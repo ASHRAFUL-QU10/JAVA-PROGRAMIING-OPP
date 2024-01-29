@@ -18,3 +18,5 @@ public class AbstractQueueExample {
 		System.out.println("AbstractQueue: " + AQ);
 	}
 }
+
+
