@@ -22,6 +22,3 @@ public class ArrayListSpliterator {
 		emails.forEachRemaining((n) -> System.out.println(n));
 	}
 }
-
-
-
