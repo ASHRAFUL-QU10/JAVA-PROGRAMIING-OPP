@@ -4,7 +4,6 @@ import java.util.*;
 import java.util.ArrayList;
 import java.lang.String;
 
-
 public class ArrayListSpliterator {
 
 	public static void main(String[] args) {
