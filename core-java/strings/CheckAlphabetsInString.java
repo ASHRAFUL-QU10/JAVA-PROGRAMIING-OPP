@@ -12,3 +12,5 @@ public class CheckAlphabetsInString {
 		System.out.println("Output: "+isStringContainsAlphabet(str));
 	}
 }
+
+
