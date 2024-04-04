@@ -30,3 +30,6 @@ public class ArraysClass {
 		System.out.println("As a List() :" + al);
 	}
 }
+
+
+
