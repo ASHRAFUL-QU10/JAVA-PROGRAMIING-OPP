@@ -25,3 +25,4 @@ public class CharactersSearch {
 		System.out.println("'Hello' found in String: " + str.startsWith("Hello"));
 	}
 }
+
