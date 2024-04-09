@@ -17,3 +17,4 @@ public class PrintAllSubstring {
 		PrintSubstring("ABC", "ABC".length());
 	}
 }
+
