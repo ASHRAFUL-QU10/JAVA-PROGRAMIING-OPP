@@ -12,3 +12,4 @@ public class PrimitiveWrapperClasse {
 		System.out.println("After Modification: "+i);
 	}
 }
+//QU10
