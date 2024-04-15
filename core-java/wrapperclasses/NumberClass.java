@@ -21,3 +21,4 @@ public class NumberClass {
 		System.out.println("Whitespace Character Class: "+ Character.isWhitespace('9')); 
 	}
 }
+//QU10
