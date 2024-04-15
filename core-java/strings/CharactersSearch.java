@@ -26,3 +26,5 @@ public class CharactersSearch {
 	}
 }
 
+
+//QU10
