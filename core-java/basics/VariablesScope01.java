@@ -21,3 +21,4 @@ public class VariablesScope01 {
 		v.method(5);
 	}
 }
+//ashrafulqu10
