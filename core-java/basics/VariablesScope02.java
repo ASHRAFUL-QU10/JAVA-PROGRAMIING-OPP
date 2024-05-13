@@ -14,3 +14,6 @@ public class VariablesScope02 {
 	}
 
 }
+
+
+//ashrafulqu10
