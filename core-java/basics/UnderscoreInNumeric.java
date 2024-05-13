@@ -7,3 +7,4 @@ public class UnderscoreInNumeric {
 		System.out.println("Inum: "+num);
 	}
 }
+//ashraful qu10
