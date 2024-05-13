@@ -7,3 +7,4 @@ public class UnderscoreAs_Variable {
 		System.out.println(_);
 	}
 }
+//ashrafulqu10
