@@ -1,8 +1,8 @@
 package arrays;
 
 /**
- * When you clone a single dimensional array, such as Object[], a ìdeep copyî 
- * is performed with the new array containing copies of the original arrayís 
+ * When you clone a single dimensional array, such as Object[], a ‚Äúdeep copy‚Äù 
+ * is performed with the new array containing copies of the original array‚Äôs 
  * elements as opposed to references.
  * @author U6044324
  * Nov 5, 2018
