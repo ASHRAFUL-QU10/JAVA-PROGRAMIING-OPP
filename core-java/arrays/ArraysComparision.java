@@ -13,3 +13,6 @@ public class ArraysComparision {
 		}
 	}
 }
+
+
+//qu10
