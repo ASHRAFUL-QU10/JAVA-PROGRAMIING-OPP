@@ -16,3 +16,4 @@ public class ArraysBinarySearch2 {
 
 }
 
+//qu10
