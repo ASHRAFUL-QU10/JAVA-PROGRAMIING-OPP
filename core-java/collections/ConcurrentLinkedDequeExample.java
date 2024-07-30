@@ -19,3 +19,4 @@ public class ConcurrentLinkedDequeExample {
 		System.out.println("ConcurrentLinedDeque: " + cld);
 	}
 }
+//ASHRAFULQU10
