@@ -23,3 +23,4 @@ public class ArrayListSynchronization {
 		}
 	}
 }
+//ASHRAFULQU10
