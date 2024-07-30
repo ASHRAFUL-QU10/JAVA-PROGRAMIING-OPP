@@ -38,3 +38,6 @@ public class ArrayDequeExample {
 		System.out.println("Final Arrays: " + de_que);
 	}
 }
+
+
+//ASHRAFULQU10
